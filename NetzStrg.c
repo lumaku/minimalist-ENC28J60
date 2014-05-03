@@ -22,6 +22,7 @@
  *	The function Paketsendung() sends IP packets always with a	
  *	payload of 48 bytes. Please remember to adapt the values
  *	of packet length and the checksum to your needs.
+ *      You also have to adapt the corresponding value in PaketsendungStart()
  *		
  */
 
